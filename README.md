@@ -1,4 +1,6 @@
 # Pan-Azure
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+
 This ARM template creates and bootstraps 2 VMSeries firewalls into an availability set.
 
 Prerequisites:
