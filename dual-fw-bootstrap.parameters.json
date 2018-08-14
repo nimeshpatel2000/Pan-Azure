@@ -1,0 +1,48 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualNetworks_name": {
+            "value": "fwVNET"
+        },
+        "VM1name": {
+            "value": "fw1"
+        },
+        "VM2name": {
+            "value": "fw2"
+        },
+        "public_ipMgmt": {
+            "value": "publicmgmt"
+        },
+        "public_IPUntrust": {
+            "value": "publicuntrust"
+        },
+        "networkSecurityGroups_name": {
+            "value": "DefaultNSG"
+        },
+        "adminUserName": {
+            "value": ""
+        },
+        "adminPassword": {
+            "value": ""
+        },
+        "storageAccountName": {
+            "value": ""
+        },
+        "storageAccountAccessKey": {
+            "value": ""
+        },
+        "bootstrapFolderName": {
+            "value": "bootstrap"
+        },
+        "StorageAccountFileShareDirectory": {
+            "value": "None"
+        },
+        "availabilitySetName": {
+            "value": "VMSeriesFwAvSet"
+        },
+        "location": {
+            "value": "uksouth"
+        }
+    }
+}
