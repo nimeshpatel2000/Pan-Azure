@@ -1,5 +1,5 @@
 # Pan-Azure
-[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://github.com/nimeshpatel2000/Pan-Azure/blob/master/dual-fw-bootstrap.json)
 
 This ARM template creates and bootstraps 2 VMSeries firewalls into an availability set.
 
